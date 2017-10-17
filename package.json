@@ -1,0 +1,25 @@
+{
+  "name": "react-webpack-nativebase",
+  "version": "1.0.0",
+  "description": "react-webpack-nativebase",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robsonscm/react-webpack-nativebase.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robsonscm/react-webpack-nativebase/issues"
+  },
+  "homepage": "https://github.com/robsonscm/react-webpack-nativebase#readme",
+  "devDependencies": {
+    "create-react-native-app": "^1.0.0",
+    "native-base": "^2.3.3",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  }
+}
