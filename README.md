@@ -13,6 +13,8 @@
   * all inner folders **MUST** be created by de command
     - `create-react-native-app <NameOfTheProject>`
     - be sure of being at src folder to run it
+  * make sure of having react-native-cli installed globaly:
+    - `sudo npm install -g react-native-cli`
   * after create de project, run the following:
     - `cd NameOfTheProject`
     - `react-native link`
